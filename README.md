@@ -15,7 +15,7 @@ I'm always happy to connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colden-bobowick/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/cbobowic/)
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-4285F4?logo=google-chrome&logoColor=white)](https://www.coldenbobowick.com/)
-[![Handshake](https://img.shields.io/badge/-Handshake-000000?logo=handshake&logoColor=white)]([https://joinhandshake.com/](https://app.joinhandshake.com/stu/users/33156140))
+[![Handshake](https://img.shields.io/badge/-Handshake-000000?logo=handshake&logoColor=white)](https://app.joinhandshake.com/stu/users/33156140)
 
 
 ## 🖥️ My tech stack :
@@ -38,7 +38,7 @@ My technical experience includes...
 - Data science research and frontend development with the [**LEWAS Lab**](http://lewas.ictas.vt.edu/) during Summer 2022
 - End-to-end integration testing at [**Rockwell Automation**](https://www.rockwellautomation.com/en-us.html) throughout Summer 2023
 
-For more info on my projects, check out [**my website**](https://www.coldenbobowick.com/#/projects/)
+For more info on my projects, check out [**my website**](https://www.coldenbobowick.com/#/projects/)!
 
 ------
 [**cbobowic**](https://github.com/cbobowic)
