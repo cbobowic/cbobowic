@@ -1,4 +1,4 @@
-# Hey there! I'm Colden Bobowick.
+# Hey there! I'm Colden Bobowick. 👋
 
 Welcome to my GitHub profile! Let me introduce you to what I'm all about:
   
