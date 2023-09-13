@@ -4,9 +4,9 @@ Welcome to my GitHub profile! Let me introduce you to what I'm all about:
   
 - 👨‍🔧 I'm an Applied Math - Computer Science junior at [**Brown University**](https://www.brown.edu/)
 - 📍 Based near **Providence, RI**
-- 🏢 Currently working for [**Rockwell Automation**](https://www.rockwellautomation.com/en-us.html) as a software and test engineering intern
+- 🏢 Currently working at **Brown Space Engineering** to launch a satellite into space! 🚀
 - 🔮 Seeking employment for **Summer 2024**
-- 🌱 I'm currently learning about **algorithmic optimization** and **end-to-end integration testing**
+- 🌱 I'm currently learning about **algorithmic analysis** and **deterministic modeling**
 - 📮 You can contact me directly at : **colden_bobowick@brown.edu**
 
 ## 🌐 You can find me on :
