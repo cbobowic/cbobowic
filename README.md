@@ -2,10 +2,8 @@
 
 Welcome to my GitHub profile! Let me introduce you to what I'm all about:
   
-- 👨‍🔧 I'm an Applied Math - Computer Science junior at [**Brown University**](https://www.brown.edu/)
-- 📍 Based near **Providence, RI**
-- 🏢 Currently working at **Discover Financial Services** optimizing Snowflake costs 🚀
-- 🔮 Seeking employment for **New Grad 2025**
+- 👨‍🔧 I'm an Applied Math - Computer Science graduate from [**Brown University**](https://www.brown.edu/)
+- 📍 Based in **NYC**
 - 🌱 I'm currently learning about **algorithmic analysis** and **deterministic modeling**
 - 📮 You can contact me directly at : **colden_bobowick@brown.edu**
 
